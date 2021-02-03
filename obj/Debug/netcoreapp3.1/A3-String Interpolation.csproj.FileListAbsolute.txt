@@ -1,0 +1,13 @@
+C:\Users\isabe\Desktop\.Net Databse Programming\A3-String Interpolation\bin\Debug\netcoreapp3.1\A3-String Interpolation.exe
+C:\Users\isabe\Desktop\.Net Databse Programming\A3-String Interpolation\bin\Debug\netcoreapp3.1\A3-String Interpolation.deps.json
+C:\Users\isabe\Desktop\.Net Databse Programming\A3-String Interpolation\bin\Debug\netcoreapp3.1\A3-String Interpolation.runtimeconfig.json
+C:\Users\isabe\Desktop\.Net Databse Programming\A3-String Interpolation\bin\Debug\netcoreapp3.1\A3-String Interpolation.runtimeconfig.dev.json
+C:\Users\isabe\Desktop\.Net Databse Programming\A3-String Interpolation\bin\Debug\netcoreapp3.1\A3-String Interpolation.dll
+C:\Users\isabe\Desktop\.Net Databse Programming\A3-String Interpolation\bin\Debug\netcoreapp3.1\A3-String Interpolation.pdb
+C:\Users\isabe\Desktop\.Net Databse Programming\A3-String Interpolation\obj\Debug\netcoreapp3.1\A3-String Interpolation.csprojAssemblyReference.cache
+C:\Users\isabe\Desktop\.Net Databse Programming\A3-String Interpolation\obj\Debug\netcoreapp3.1\A3-String Interpolation.AssemblyInfoInputs.cache
+C:\Users\isabe\Desktop\.Net Databse Programming\A3-String Interpolation\obj\Debug\netcoreapp3.1\A3-String Interpolation.AssemblyInfo.cs
+C:\Users\isabe\Desktop\.Net Databse Programming\A3-String Interpolation\obj\Debug\netcoreapp3.1\A3-String Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Desktop\.Net Databse Programming\A3-String Interpolation\obj\Debug\netcoreapp3.1\A3-String Interpolation.dll
+C:\Users\isabe\Desktop\.Net Databse Programming\A3-String Interpolation\obj\Debug\netcoreapp3.1\A3-String Interpolation.pdb
+C:\Users\isabe\Desktop\.Net Databse Programming\A3-String Interpolation\obj\Debug\netcoreapp3.1\A3-String Interpolation.genruntimeconfig.cache
